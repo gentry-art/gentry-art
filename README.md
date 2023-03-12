@@ -1,4 +1,5 @@
-<h1 align="center">嗨👋，我是yaoyao</h1>
+<h1 align="center">Hey! Nice to meet you.</h1>
+<h1 align="center">我是yaoyao</h1>
 <h3 align="center">来自中国的热情前端开发者</h3>
 
 <p align="left"> <img src=" https://komarev.com/ghpvc/?username=gentry-art&label=Profile%20views&color=0e75b6&style=flat" alt="gentry-art" /> </p>
