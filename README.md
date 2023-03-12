@@ -8,14 +8,10 @@
 
 - 🌱 目前正在学习 **Vue、Element、Webpack、Pinia** - 📫
 
-如何联系我 **2356497130@qq.com / 13383922020@163.com**
-
 - ⚡ 有趣的事实  **我觉得我很有趣！**
 
-<h3 align="left">与我联系：</h3>
-<p align="left">
-</p>
-
+<h3 align="left">与我联系：**2356497130@qq.com / 13383922020@163.com**</h3>
+<p align="left"></p>
 <h3 align="left">语言和工具：</h3>
 <p align="left"> 
   <a href="https://www.w3schools.com/css/" target="_blank " rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
