@@ -5,7 +5,7 @@
 
 <p align="left"> <a href= "https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 目前正在学习 **Vue、Nuxt、Webpack、NutUI、Element、Pinia** - 📫
+- 🌱 目前正在学习 **Vue、Element、Webpack、Pinia** - 📫
 
 如何联系我 **2356497130@qq.com / 13383922020@163.com**
 
