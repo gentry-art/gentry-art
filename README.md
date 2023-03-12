@@ -10,7 +10,7 @@
 
 - ⚡ 有趣的事实: **我觉得我很有趣！**
 
-- ⚡ 与我联系: **2356497130@qq.com / 13383922020@163.com** - 📫
+- ⚡ 与我联系: **2356497130@qq.com / 13383922020@163.com** 📫
 <h3 align="left">语言和工具：</h3>
 <p align="left"> 
   <a href="https://www.w3schools.com/css/" target="_blank " rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
