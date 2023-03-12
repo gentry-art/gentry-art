@@ -1,13 +1,14 @@
-<h1 align="center">嗨👋，我是yaoyao</h1>
+<h1 align="center">嗨👋，我是 yaoyao </h1>
 <h3 align="center">来自中国的热情前端开发者</h3>
 
 <p align="left"> <img src=" https://komarev.com/ghpvc/?username=gentry-art&label=Profile%20views&color=0e75b6&style=flat" alt="gentry-art" /> </p>
 
-<p align="left"> <a href= "https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href= "https://twitter.com/" target="blank"><img src="![博罗维茨保加利亚](https://user-images.githubusercontent.com/124666285/224533327-5ae22501-ba88-4c82-9224-481ddeec2b4e.jpg)
+" alt="" /></a> </p>
 
 - 🌱 目前正在学习**Swiper、Flex、ES6、Axios、vue、Nuxt、Webpack、ECharts、Layui、NutUI、Element、Vite、Pinia** - 📫
 
-如何联系我**2356497130@qq.com/13383922020@163。com**
+如何联系我**2356497130@qq.com / 13383922020@163。com**
 
 - ⚡ 有趣的事实 **我觉得我很有趣！**
 
