@@ -6,7 +6,7 @@
 
 <p align="left"> <a href= "https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- ⚡ 目前正在学习: **Vue、Element、Webpack、Pinia** 
+- ⚡ 目前正在学习: **Vue、Element、Webpack、Pinia...** 
 
 - ⚡ 有趣的事实: **我觉得我很有趣！**
 
