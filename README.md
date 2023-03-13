@@ -32,6 +32,5 @@
   <code><a target="_blank" rel="noopener noreferrer" title="git" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" style="max-width: 100%;"></a></code>
 </p>
 </br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gentry-art&show_icons=true&locale=en&layout=compact" alt="gentry-art" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=gentry-art&show_icons=true&locale=en" alt ="gentry-art" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gentry-art&" alt= “绅士艺术” /></p>
