@@ -1,6 +1,8 @@
 <h1 align="center">Hey! Nice to meet you.</h1>
 <h1 align="center">I am a passionate front-end developer from China <span>,</span></br>I'm Bug-Gentry, I live in Beijing at present.</h1>
-<h1 align="center"> “Everyone should learn how to program a computer because it teaches you how to think” ——— Steve Jobs </h1>
+<h1 align="center"> Everyone should learn how to program a computer because it teaches you how to think ——— Steve Jobs </h1>
+<h1 align="center">If we can't fix it, it ain't broke. ——— Lieutenant Colonel Walt Weir </h1>
+
 <!-- <p align="left"> <img src=" https://komarev.com/ghpvc/?username=gentry-art&label=Profile%20views&color=0e75b6&style=flat" alt="gentry-art" /> </p> -->
 
 <p align="left"> <a href= "https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
